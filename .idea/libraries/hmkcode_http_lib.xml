@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hmkcode-http-lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/android-clean-http-async-task/hmkcode-http-lib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

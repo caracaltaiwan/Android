@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android-L-preview/android-L-preview.iml" filepath="$PROJECT_DIR$/android-L-preview/android-L-preview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-actionbar-for-2.x.x/android-actionbar-for-2.x.x.iml" filepath="$PROJECT_DIR$/android-actionbar-for-2.x.x/android-actionbar-for-2.x.x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-camera-app/android-camera-app.iml" filepath="$PROJECT_DIR$/android-camera-app/android-camera-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-canvas-donut-chart/android-canvas-donut-chart.iml" filepath="$PROJECT_DIR$/android-canvas-donut-chart/android-canvas-donut-chart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-clean-http-async-task/android-clean-http-async-task.iml" filepath="$PROJECT_DIR$/android-clean-http-async-task/android-clean-http-async-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-custom-listview/android-custom-listview.iml" filepath="$PROJECT_DIR$/android-custom-listview/android-custom-listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-custom-view/android-custom-view.iml" filepath="$PROJECT_DIR$/android-custom-view/android-custom-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-draw-happy-face/android-draw-happy-face.iml" filepath="$PROJECT_DIR$/android-draw-happy-face/android-draw-happy-face.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-gcm-client/android-gcm-client.iml" filepath="$PROJECT_DIR$/android-gcm-client/android-gcm-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-get-current-location/android-get-current-location.iml" filepath="$PROJECT_DIR$/android-get-current-location/android-get-current-location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-get-last-location-fused-api/android-get-last-location-fused-api.iml" filepath="$PROJECT_DIR$/android-get-last-location-fused-api/android-get-last-location-fused-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-http-client/android-http-client.iml" filepath="$PROJECT_DIR$/android-http-client/android-http-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-http-get-json/android-http-get-json.iml" filepath="$PROJECT_DIR$/android-http-get-json/android-http-get-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-input-text-layout/android-input-text-layout.iml" filepath="$PROJECT_DIR$/android-input-text-layout/android-input-text-layout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-material-design-appcompat/android-material-design-appcompat.iml" filepath="$PROJECT_DIR$/android-material-design-appcompat/android-material-design-appcompat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-menu-events-change/android-menu-events-change.iml" filepath="$PROJECT_DIR$/android-menu-events-change/android-menu-events-change.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-navigation-drawer/android-navigation-drawer.iml" filepath="$PROJECT_DIR$/android-navigation-drawer/android-navigation-drawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-options-menu/android-options-menu.iml" filepath="$PROJECT_DIR$/android-options-menu/android-options-menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-post-json/android-post-json.iml" filepath="$PROJECT_DIR$/android-post-json/android-post-json.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-pro-listview/android-pro-listview.iml" filepath="$PROJECT_DIR$/android-pro-listview/android-pro-listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-read-browser-bookmark/android-read-browser-bookmark.iml" filepath="$PROJECT_DIR$/android-read-browser-bookmark/android-read-browser-bookmark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-recyclerview/android-recyclerview.iml" filepath="$PROJECT_DIR$/android-recyclerview/android-recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-show-image-and-path/android-show-image-and-path.iml" filepath="$PROJECT_DIR$/android-show-image-and-path/android-show-image-and-path.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-sign-in-up-screen/android-sign-in-up-screen.iml" filepath="$PROJECT_DIR$/android-sign-in-up-screen/android-sign-in-up-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-social-signin/android-social-signin.iml" filepath="$PROJECT_DIR$/android-social-signin/android-social-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-sqlite/android-sqlite.iml" filepath="$PROJECT_DIR$/android-sqlite/android-sqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-start-activity/android-start-activity.iml" filepath="$PROJECT_DIR$/android-start-activity/android-start-activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-post-gcm/src/main/main.iml" filepath="$PROJECT_DIR$/java-post-gcm/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-post-json/server-side-code/server-side-code.iml" filepath="$PROJECT_DIR$/android-post-json/server-side-code/server-side-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-post-gcm/src/test/test.iml" filepath="$PROJECT_DIR$/java-post-gcm/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
